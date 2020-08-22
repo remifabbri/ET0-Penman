@@ -1,0 +1,16 @@
+{
+  "name": "et0-penman",
+  "version": "0.1.0",
+  "description": "Calcul de l'evapotranspiration des plantes selon la méthode Penman-Monteith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ET0",
+    "méthode",
+    "Penman-Monteith"
+  ],
+  "author": "Rémi Fabbri",
+  "license": "ISC"
+}
